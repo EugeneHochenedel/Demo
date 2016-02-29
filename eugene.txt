@@ -1,0 +1,9 @@
+Learning from Andrew
+	-Eugene Hochenedel
+
+int main()
+{
+	
+
+
+}
